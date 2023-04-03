@@ -1,4 +1,3 @@
-// export words
 const words = [
   "javascript",
   "programming",
@@ -11,3 +10,5 @@ const words = [
   "object",
   "iteration",
 ];
+
+export default words;
