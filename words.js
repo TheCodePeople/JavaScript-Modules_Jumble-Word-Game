@@ -11,3 +11,4 @@ const words = [
   "object",
   "iteration",
 ];
+export default words;

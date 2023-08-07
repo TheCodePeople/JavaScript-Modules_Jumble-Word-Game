@@ -7,3 +7,4 @@ function jumble(word) {
   }
   return letters.join("");
 }
+export default jumble;
