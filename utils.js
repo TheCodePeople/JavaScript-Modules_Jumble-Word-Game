@@ -1,5 +1,4 @@
-// export jumble function
-function jumble(word) {
+export function jumble(word) {
   const letters = word.split("");
   for (let i = letters.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
@@ -7,3 +6,4 @@ function jumble(word) {
   }
   return letters.join("");
 }
+// export default jumble;
