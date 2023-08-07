@@ -1,5 +1,5 @@
 // export words
-const words = [
+ export const words = [
   "javascript",
   "programming",
   "computer",
@@ -11,3 +11,4 @@ const words = [
   "object",
   "iteration",
 ];
+
