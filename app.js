@@ -1,4 +1,6 @@
 // import words array & jumble function
+import { jumble} from "./utils.js";
+import { words } from "./words.js";
 
 const jumbledWord = document.getElementById("jumbled-word");
 const guessInput = document.getElementById("guess-input");
